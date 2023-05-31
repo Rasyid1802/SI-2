@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/utsrasyid",
+    "description": "UTS PEMROGRAMAN WEB LANJUTAN",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syid"
+        }
+    ],
+    "require": {}
+}
